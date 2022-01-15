@@ -16,4 +16,5 @@ I implemented the following functionalities for the assignment:
 - Advanced own SDF
 - Animated SDF
 
-#Final product
+# Final product
+![final_scene](https://github.com/Gratschew/-SCHOOL-computer-graphics-glsl/blob/master/final_scene.PNG?raw=true)
